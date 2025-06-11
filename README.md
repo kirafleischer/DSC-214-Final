@@ -10,4 +10,4 @@ Follow ReadMe instructions to download data.
 ### Instructions
 1. Run `python topological_main.py` to run EDA experiment.
 2. Run `python predictor_main.py` to run persistence image predictor experiment.
-   - Requires model model weights for trained LPNet model.
+   - Requires model weights from a trained LPNet model.
