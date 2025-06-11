@@ -1,6 +1,6 @@
 # DSC-214-Final
 
-### Presentation Link
+### Presentation
 Video: https://drive.google.com/file/d/1-RwoKPE-q7Q52YuJ-05E-5DtACnsqGSD/view?usp=sharing
 
 Slides: https://docs.google.com/presentation/d/1El7oI6_lR4iDw_KqcotaywqfnzzOXqIvK5AxmO2Aco8/edit?usp=sharing
